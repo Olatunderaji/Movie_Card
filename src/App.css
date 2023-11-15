@@ -1,0 +1,15 @@
+.first{
+    width: 50px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding-left: 400px;
+}
+form input{
+    width: 800px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 650px;
+    
+    border: solid rgb(176, 164, 150);
+
+}
